@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Combo system
     description                           : Create more complex matches for higher scores
-    fontawesome_icon_name                 : grid
+    fontawesome_icon_name                 : square
 
   - title                                 : Strategic tile-laying
     description                           : Thoughtful placement matters — plan ahead to unlock bigger matches
@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : Casual gameplay
     description                           : Relax and play at your own pace; the deeper you play, the smarter you score
-    fontawesome_icon_name                 : face-smile-relaxed
+    fontawesome_icon_name                 : couch
 
   - title                                 : Unlockable themes
     description                           : Expand your world with in-app purchases - discover Ocean, Forest, and other beautiful themes featuring new emoji sets and unique combo styles
