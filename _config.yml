@@ -38,7 +38,7 @@ mastodon_link                             : https://social.jumaru.net/@brupp
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Unicorn &  rainbow theme
+  - title                                 : Unicorn & Rainbow theme
     description                           : Match adorable unicorn emojis in a magical, dreamy world
     fontawesome_icon_name                 : magic
 
